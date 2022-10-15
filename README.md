@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @randistella
+- I'm an artist turned programmer who is studying web development.
+- Currently learning: Javascript, XML, Typescript
