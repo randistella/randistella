@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @randistella
-- I'm an artist turned programmer who is studying web development.
+- I'm an web developer and designer who is currently studying web development
+- Languages: HTML/CSS 
 - Currently learning: Javascript, XML, Typescript
+
