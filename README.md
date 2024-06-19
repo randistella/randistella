@@ -4,6 +4,6 @@ Langauges and skills:
 - Front-end:  React, Next.JS, JavaScript, TypeScript, HTML, CSS, SASS
 - Back-end: RESTful API
 - Design: Figma, Adobe Creative Cloud, Web Design, UX/UI
-- Developer tools: Git, npm, yarn, command line
+- Developer tools: Git, npm, yarn, command line, Agile
 
 
