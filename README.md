@@ -1,7 +1,9 @@
-- I’m Randi Stella
-- I'm a web developer, designer, and artist
-- I live and work in Chicago
-- Skillset: HTML/CSS, Javascript, Adobe Creative Suite, Sass, Figma, UX/UI, React, Next.JS, Typescript, POSTMAN
-- Currently learning: Java, PHP, Angular
-- Hobbies: Climbing, reading, drawing, sewing, and walking my dog
+Hi there! I'm Randi Stella, a web developer, designer, and rock climber living in Chicago. I thrive in a fast-paced environments where I'm able to combine my love of coding and design to create pixel perfect, user-friendly web applications.
+  
+Langauges and skills:
+Front-end:  React, Next.JS, JavaScript, TypeScript, HTML, CSS, SASS
+Back-end: RESTful API
+Design: Figma, Adobe Creative Cloud, Web Design, UX/UI
+Developer tools: Git, npm, yarn, command line
+
 
